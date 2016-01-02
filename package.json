@@ -1,0 +1,22 @@
+{
+    "name": "gitbook-plugin-clicky",
+    "description": "Clicky for your gitbook",
+    "main": "index.js",
+    "version": "1.0.0",
+    "engines": {
+        "gitbook": ">=0.4.6"
+    },
+    "homepage": "https://github.com/ghuntley/gitbook-plugin-clicky",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ghuntley/gitbook-plugin-clicky.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ghuntley/gitbook-plugin-clicky/issues"
+    },
+    "dependencies": {
+        "swig": "^1.3.2",
+        "lodash": "^2.4.1"
+    }
+}
